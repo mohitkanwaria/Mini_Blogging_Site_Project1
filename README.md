@@ -1,5 +1,3 @@
-# Plutonium
-
 ## Blogging Site Mini Project Requirement
 
 ## Phase I
